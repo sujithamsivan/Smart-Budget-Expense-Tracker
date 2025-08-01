@@ -35,4 +35,4 @@ To run this app locally:
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/sujithamsivan/Smart-Budget-Expense-Tracker.git)
